@@ -7,5 +7,5 @@ module.exports = function getSeason(date) {
   if (curMonth == 2 || curMonth == 3 || curMonth == 4) return 'spring'
   if (curMonth == 5 || curMonth == 6 || curMonth == 7) return 'summer'
   if (curMonth == 8 || curMonth == 9 || curMonth == 10) return 'autumn'
-  // remove line with error and write your code here
+
 };
